@@ -1,0 +1,19 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "Node.js and Express REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChinenyeAkaluka/APIWithNodeAndExpress.git"
+  },
+  "author": "Chinenye Akaluka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChinenyeAkaluka/APIWithNodeAndExpress/issues"
+  },
+  "homepage": "https://github.com/ChinenyeAkaluka/APIWithNodeAndExpress#readme"
+}
